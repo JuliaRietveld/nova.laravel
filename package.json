@@ -15,6 +15,6 @@
   "homepage": "https://juliarietveld.github.io/nova",
   "license": "ISC",
   "scripts": {
-    "delpoy": "gh-pages -d"
+    "deploy": "gh-pages -d"
   }
 }
