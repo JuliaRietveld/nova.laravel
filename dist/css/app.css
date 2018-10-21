@@ -5,6 +5,7 @@
     --dark-blue: #26425f;
     --light-blue: #2891c4;
     --darkest-blue: #125b93;
+    --betterContrastBlue: #1B67A1;
 }
 * {
     box-sizing: border-box;
@@ -69,7 +70,7 @@ p {
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.1);
     height: 3em;
     padding: 0 1.5em;
-    background-color: var(--primary-color);
+    background-color: var(--betterContrastBlue);
     font-weight: 700;
     border-radius: 0.25em;
 }
@@ -80,7 +81,7 @@ p {
     justify-content: center;
     align-items: center;
     font-size: 1.125em;
-    text-color: var(--primary-color);
+    text-color: var(--betterContrastBlue);
     height: 3em;
     font-weight: 700;
     color: var(--primary-color);
