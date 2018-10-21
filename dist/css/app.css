@@ -14,7 +14,8 @@ body {
     padding-bottom: 5em;
     background-color: var(--light-grey);
     color: var(--text-color);
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', Helvetica, sans-serif;
+    font-display: swap;
 }
 /*
 * General overrules
